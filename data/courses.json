@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+        "name": "JAVASCRIPT Developer Course",
+        "details": "This is a complete JavaScript course. Here you can learn many things like variable, operators , function etc. More fun things to learn. So enroll this course to make your life easier and happier. Happy Coding"
+    },
+    {
+        "id": "2",
+        "picture": "https://www.loginradius.com/blog/static/00a89fc56461ea1529439d89072c93f1/2ea1d/react.jpg",
+        "name": "Professional React JS Course",
+        "details": "This is a complete professional React JS course. Before enrolling this course you have know the basics of javascript and also HTML and CSS. In this course we will build 4 projects with this library. Happy Coding"
+    },
+    {
+        "id": "3",
+        "picture": "https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png?w=1920&h=1920&q=100&fm=webp",
+        "name": "Advance Python Course",
+        "details": "This is a complete advanced python course. If you want to learn this programming language this is the great choice for you. Here we will explore the basics and also the advanced of python course. We will build some projects also .  Happy Coding"
+    },
+    {
+        "id": "4",
+        "picture": "https://ares.decipherzone.com/blog-manager/uploads/banner_3ceec8dc-c260-47d9-a8f8-79dd0ee7ea37.jpg",
+        "name": "Web Development Course",
+        "details": "This is a web development full course. Here you can learn HTML, CSS, JS ,Bootstrap, Tailwind, React for become a web developer. Here you can also learn how to make website. We will be building some projects regarding this language and frameworks also. Happy Coding"
+    },
+    {
+        "id": "5",
+        "picture": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=1060&t=st=1666754210~exp=1666754810~hmac=c9647b25bce13e6bc10422d8a247a5dc119798c5a12f47c3d5574fe616656dfc",
+        "name": "App Development Course",
+        "details": "This is a app development full course. Here you can learn HTML, CSS, JS , React native for become a app developer. Here you can also learn how to make apps. We will be building some projects regarding this language and frameworks also. Happy Coding"
+    },
+    {
+        "id": "6",
+        "picture": "https://rockcontent.com/wp-content/uploads/2021/02/stage-en-wordpress-1024x538.png.webp",
+        "name": "WordPress Crash Course",
+        "details": "Wordpress are the most popular for the web developers. Wordpress is the highest using platform here. Wordpress have many templates. We will be editing that or make website by our own. we will build a complete project with it. Happy Coding"
+    }
+]
